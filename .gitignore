@@ -2,4 +2,4 @@
 node_modules/
 
 # Ignore env directory or virtual environment
-env/
+.env/
